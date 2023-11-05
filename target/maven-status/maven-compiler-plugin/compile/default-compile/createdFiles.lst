@@ -1,0 +1,6 @@
+module-info.class
+ru\isokolov\example\Player.class
+ru\isokolov\example\PrimaryController.class
+ru\isokolov\example\SecondaryController.class
+ru\isokolov\example\GUI.class
+ru\isokolov\example\App.class
